@@ -7,5 +7,6 @@
 
 
 
-<p>Sources:
+<p>Sources:</p>
+<p>
 - vaccines.json => Tagesspiegel/RKI: https://interaktiv.tagesspiegel.de/lab/warum-wird-in-manchen-landkreisen-so-viel-schneller-geimpft-als-in-anderen/</p>
